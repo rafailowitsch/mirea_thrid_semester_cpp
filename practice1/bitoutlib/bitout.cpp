@@ -17,8 +17,8 @@ vector<string> outputBinaryAndDecimal(unsigned int decimalNumber, unsigned int n
 	in string format
 */
 static string decimalToBinary(unsigned int decimalNumber, unsigned int numberOfDigits) {
-	int 	        binaryNumber		=	decimalNumber;
-	string 		   	string_binaryNumber;
+	int 	        binaryNumber	    =	decimalNumber;
+	string 		string_binaryNumber;
 
 	for (size_t i = 0; i < numberOfDigits; i++)
 	{
