@@ -14,7 +14,7 @@ int main() {
     size_t          alternativeNumber;   // number of the function selected by the user
     vector <string> result;              // vector containing bitout function results
 
-    binaryСonstant = 0b111010;                // binary representation of a number 58
+    binaryСonstant = 0b111010;           // binary representation of a number 58
     flag = true;
 
     while (flag) {
